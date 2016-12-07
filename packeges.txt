@@ -1,0 +1,9 @@
+Django==1.8.14
+django-filebrowser==3.7.1
+django-grappelli==2.8.1
+django-mptt==0.8.5
+django-mptt-admin==0.3.7
+image==1.5.3
+Pillow==3.3.1
+pep8==1.7.0
+
